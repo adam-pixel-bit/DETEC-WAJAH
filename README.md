@@ -1,4 +1,5 @@
 # 👁️ Real-Time Facial Expression Detection Web Application
+# detec-wajah.vercel.app
 
 Aplikasi web full-stack modern berbasis **Next.js 14 (App Router)**, **TypeScript**, **Tailwind CSS**, dan **Supabase Auth & Database**, dilengkapi dengan fitur deteksi wajah dan estimasi ekspresi visual secara *real-time* menggunakan model *computer vision* di peramban pengguna.
 
